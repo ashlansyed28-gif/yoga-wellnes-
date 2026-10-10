@@ -1,0 +1,23 @@
+{
+  "name": "yoga-mind-wellness",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Production-grade Yoga & Mind Wellness Platform powered by React, Node.js, Supabase, and Google Gemini AI",
+  "scripts": {
+    "start:backend": "cd backend && node src/server.js",
+    "start:frontend": "cd frontend && vite",
+    "build:frontend": "cd frontend && vite build",
+    "build": "cd frontend && vite build"
+  },
+  "keywords": [
+    "yoga",
+    "wellness",
+    "mindfulness",
+    "gemini-ai",
+    "react",
+    "nodejs",
+    "supabase"
+  ],
+  "author": "ASHLAN SYED",
+  "license": "MIT"
+}
